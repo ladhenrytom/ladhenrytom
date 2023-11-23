@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Oluwatomiwa Oladele
-- 👀 I’m a web developer
-- 🌱 I’m also learning to be a software developer
-- 💞️ I’m looking to collaborate on JavaScript/React projects
+- 👀 I’m a software engineer
 - 📫 How to reach me ...Tomiwasemilore@gmail.com
 
 <!---
